@@ -2,3 +2,4 @@
 a conclusion of the english lessons in the 12th and 13th class on the RSS in Nbg
 These texts should be only used while drinking coffee, 
 sorry for all mistakes, it would be nice, if you correct them, or send me a list with the mistakes, i try to fix them.
+In the case, you dont know about latex, just use the .pdf files, in the other case, just download the .tex file.
