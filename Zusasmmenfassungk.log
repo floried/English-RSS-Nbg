@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2015.9.3)  10 APR 2017 12:27
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2015.9.3)  22 APR 2017 15:00
 entering extended mode
 **Zusasmmenfassungk.tex
 (C:\Users\flavi\Documents\LaTeX\Hausaufgaben\13\Englisch\Zusasmmenfassungk.tex
@@ -1085,13 +1085,19 @@ Class scrartcl Warning: Usage of deprecated font command `\it'!
 (scrartcl)              by `\normalfont \itshape ' on input line 5.
 
 
+Overfull \hbox (3.68224pt too wide) in paragraph at lines 5--5
+ [][] []\T1/cmr/m/n/12 Declaration of In-de-pen-dence, \T1/cmr/m/it/12 Thomas J
+ef- 
+ []
+
+
 Underfull \vbox (badness 4036) has occurred while \output is active []
 
  [2])
 \tf@toc=\write4
 
-Overfull \hbox (17.71283pt too wide) in paragraph at lines 36--37
-[]| \T1/cmr/m/n/12 af-ter that, next, be-sides (Auÿer-dem), more-over (Darüber-
+Overfull \hbox (12.33498pt too wide) in paragraph at lines 36--37
+[]| \T1/cmr/m/n/12 af-ter that, next, be-sides (auÿer-dem), more-over (darüber-
 
  []
 
@@ -1110,131 +1116,140 @@ Class scrartcl Warning: Usage of deprecated font command `\it'!
 (scrartcl)              by `\normalfont \itshape ' on input line 41.
 
 [3] [4] [5]
-Overfull \hbox (28.00017pt too wide) in paragraph at lines 106--107
-[]\T1/cmr/m/n/12 Hispanics \TS1/cmr/m/n/12 \T1/cmr/m/n/12 not speak-ing En-gli
-sh, not ed-u-cated, \TS1/cmr/m/n/12 \T1/cmr/m/n/12 created
+Overfull \hbox (8.59311pt too wide) in paragraph at lines 104--105
+[]| \T1/cmr/m/n/12 up-per class staid rich; mid-dle class of-ten be-come poorer
+;
  []
 
-
-Overfull \hbox (6.88828pt too wide) in paragraph at lines 110--111
-[]\T1/cmr/m/n/12 financial cri-sis 1929, 2008, price of a house rose and droppe
-d 
- []
-
-[6] [7]
-Overfull \hbox (2.06497pt too wide) in paragraph at lines 159--160
+[6] [7] [8]
+Overfull \hbox (2.06497pt too wide) in paragraph at lines 161--162
 []\T1/cmr/m/n/12 (bank takes homes from peo-ple who cant re-play mort-
  []
 
 
-Overfull \hbox (3.56586pt too wide) in paragraph at lines 172--175
+Overfull \hbox (3.56586pt too wide) in paragraph at lines 175--178
 \T1/cmr/m/n/12 in-for-ma-tion and val-ues, cul-ture and lan-guages, labour
  []
 
-[8]
-Overfull \hbox (0.10696pt too wide) in paragraph at lines 183--184
+
+Overfull \hbox (0.10696pt too wide) in paragraph at lines 186--187
 []\T1/cmr/m/n/12 enabled in-ter-na-tional po-lit-i-cal and eco-nomic ten-sions
  []
 
-
-Overfull \hbox (12.18039pt too wide) in paragraph at lines 203--204
+[9]
+Overfull \hbox (12.18039pt too wide) in paragraph at lines 206--207
 []\T1/cmr/m/n/12 technological im-prove-ments de-stroy-ing tra-di-tional agri-
  []
 
-[9]
-Overfull \hbox (7.15538pt too wide) in paragraph at lines 208--209
+[10]
+Overfull \hbox (7.15538pt too wide) in paragraph at lines 211--212
 []\T1/cmr/m/n/12 incoming gap be-tween de-vel-oped and de-vel-op-ing coun-
  []
 
-[10] [11] [12] [13]
-Overfull \hbox (1.72841pt too wide) in paragraph at lines 295--296
+[11] [12] [13]
+Overfull \hbox (1.72841pt too wide) in paragraph at lines 298--299
 []\T1/cmr/m/n/12 species (wild- and plant life) are be-com-ing ex-tinct (Auster
 -
  []
 
-[14] [15]
-Overfull \hbox (4.5448pt too wide) in paragraph at lines 359--360
+[14] [15] [16]
+Overfull \hbox (0.26799pt too wide) in paragraph at lines 343--344
+\T1/cmr/m/n/12 Be-fruch-tung), pros-thet-ics limbs, trans-plants, key-hole
+ []
+
+
+Overfull \hbox (4.5448pt too wide) in paragraph at lines 362--363
 []\T1/cmr/m/n/12 electricity, coal, gas \TS1/cmr/m/n/12 \T1/cmr/m/n/12 wind ti
 dal -generators \TS1/cmr/m/n/12 \T1/cmr/m/n/12 energy
  []
 
 
-Overfull \hbox (11.01552pt too wide) in paragraph at lines 360--361
+Overfull \hbox (11.01552pt too wide) in paragraph at lines 363--364
 []\T1/cmr/m/n/12 cultivation of bio-fuel crops \TS1/cmr/m/n/12 \T1/cmr/m/n/12 
 GM crops \TS1/cmr/m/n/12 \T1/cmr/m/n/12 deforestation 
  []
 
-[16] [17] [18]
-Overfull \hbox (0.13097pt too wide) in paragraph at lines 416--417
+[17] [18] [19]
+Overfull \hbox (0.13097pt too wide) in paragraph at lines 420--421
 []| \T1/cmr/m/n/12 can cause al-ler-gies and long-term im-pact on our health 
  []
 
-[19] [20] [21] [22] [23]
-Overfull \hbox (14.45862pt too wide) in paragraph at lines 534--535
-[]\T1/cmr/m/n/12 protect from dam-ag-ing storm and hur-ri-cane winds, tsunamis,
-
+[20] [21] [22] [23] [24]
+Overfull \hbox (9.49872pt too wide) in paragraph at lines 544--545
+[]\T1/cmr/m/n/12 protect coral reefs, sea-grass beds and ship-ping lanes agains
+t
  []
 
 
-Overfull \hbox (27.05402pt too wide) in paragraph at lines 541--542
-[]\T1/cmr/m/n/12 important for sports fish-ing, boat-ing, bird watch-ing, snork
-elling
+Overfull \hbox (32.27493pt too wide) in paragraph at lines 546--547
+[]\T1/cmr/m/n/12 important for sports: fish-ing, boat-ing, bird watch-ing, snor
+kelling
  []
 
-[24]
-Overfull \hbox (13.37898pt too wide) in paragraph at lines 556--557
-[]| \T1/cmr/m/n/12 ac-ci-dents can be catas-trophic \TS1/cmr/m/n/12 \T1/cmr/m/
-n/12 leakage, frank-ing, tanker
+[25] [26]
+Overfull \hbox (15.8943pt too wide) in paragraph at lines 575--576
+\T1/cmr/m/n/12 biomass (ex-pe-cially in Third world coun-tries) \TS1/cmr/m/n/12
+ \T1/cmr/m/n/12 shortage/rise
  []
 
 
-Overfull \hbox (12.91797pt too wide) in paragraph at lines 567--568
+Overfull \hbox (12.91797pt too wide) in paragraph at lines 576--577
 []| \T1/cmr/m/n/12 At-mo-spheric con-di-tions and ge-o-graph-i-cal lo-ca-tions 
 make
  []
 
-[25]
-Overfull \hbox (194.5958pt too wide) in paragraph at lines 579--589
+
+Overfull \hbox (200.79565pt too wide) in paragraph at lines 589--599
  [][] 
  []
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[26] [27]
-Overfull \hbox (20.26273pt too wide) in paragraph at lines 612--613
-\T1/cmr/m/n/12 pen-sions for re-tired / el-derly, fam-ily al-lowances (=Kinderg
-eld) 
+[27]
+Overfull \hbox (3.55563pt too wide) in paragraph at lines 603--604
+[]\T1/cmr/m/n/12 social wel-fare: fam-ily al-lowances (Kindergeld), health care
+,
  []
 
-
-Overfull \hbox (8.51993pt too wide) in paragraph at lines 613--614
-[]\T1/cmr/m/n/12 provide nec-es-sary med-i-cal care and treat-ment free of char
-ge. 
- []
-
-[28] [29] [30]
-Overfull \hbox (11.12535pt too wide) in paragraph at lines 668--669
+[28] [29] [30] [31]
+Overfull \hbox (11.12535pt too wide) in paragraph at lines 679--680
 []| \T1/cmr/m/n/12 Press Com-plaints Com-mis-sion: en-sures stan-dards, make
  []
 
-[31] [32] [33] [34]
-Overfull \hbox (19.4484pt too wide) in paragraph at lines 743--744
+[32]
+Overfull \hbox (3.75551pt too wide) in paragraph at lines 686--687
+\T1/cmr/m/n/12 in-for-ma-tion), pol-i-tics, the econ-omy, so-ci-ety, fi-nan-cia
+l news,
+ []
+
+
+Overfull \hbox (6.31416pt too wide) in paragraph at lines 701--702
+[]| \T1/cmr/m/n/12 BBC1, BBC2, ITV, Chan-nel 4, Chan-nel 5, pro-grammes
+ []
+
+[33] [34]
+Overfull \hbox (3.13109pt too wide) in paragraph at lines 734--735
+[]| \T1/cmr/m/n/12 e.g. Den-ver Guardian about leaked emails from Hillary
+ []
+
+[35]
+Overfull \hbox (19.4484pt too wide) in paragraph at lines 759--760
 []| \T1/cmr/m/n/12 Co-or-di-na-tion/communication bet pres-sure groups \TS1/cmr
 /m/n/12 \T1/cmr/m/n/12 more
  []
 
-[35]
+[36] [37]
 (C:\Users\flavi\Documents\LaTeX\Hausaufgaben\13\Englisch\Zusasmmenfassungk.aux)
  ) 
 Here is how much of TeX's memory you used:
- 15841 strings out of 493921
- 299651 string characters out of 3144877
- 887132 words of memory out of 3000000
- 18807 multiletter control sequences out of 15000+200000
+ 15776 strings out of 493921
+ 297878 string characters out of 3144877
+ 860927 words of memory out of 3000000
+ 18742 multiletter control sequences out of 15000+200000
  19363 words of font info for 57 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
- 73i,14n,66p,18251b,965s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 73i,14n,66p,18251b,338s stack positions out of 5000i,500n,10000p,200000b,50000s
  <C:\Users\flavi\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\
 ecbx1200.pk> <C:\Users\flavi\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\
 ec\dpi600\tcrm1200.pk> <C:\Users\flavi\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour
@@ -1245,17 +1260,14 @@ cal\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm1200.pk> <C:\Users\flavi\
 AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecsx1728.pk> <C:\Us
 ers\flavi\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm1728.
 pk> <C:\Users\flavi\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600
-\ecsx2488.pk><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/
-cmmi12.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cm
-mi8.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12
-.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb
-><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><
-C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/symbols/msam10.pf
-b><C:/Users/flavi/AppData/Roaming/MiKTeX/2.9/fonts/type1/public/wasy/wasy10.pfb
->
-Output written on Zusasmmenfassungk.pdf (35 pages, 242833 bytes).
+\ecsx1095.pk> <C:\Users\flavi\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen
+\ec\dpi600\ecsx2488.pk><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/am
+sfonts/cm/cmmi12.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsf
+onts/cm/cmsy10.pfb><C:/Users/flavi/AppData/Roaming/MiKTeX/2.9/fonts/type1/publi
+c/wasy/wasy10.pfb>
+Output written on Zusasmmenfassungk.pdf (37 pages, 202444 bytes).
 PDF statistics:
- 513 PDF objects out of 1000 (max. 8388607)
+ 530 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  13 words of extra memory for PDF output out of 10000 (max. 10000000)
 
